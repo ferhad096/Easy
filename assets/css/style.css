@@ -1056,6 +1056,8 @@ footer .social a {
   background: #f8f9fa;
   color: #000000;
   position: relative;
+  -webkit-transition: .3s all ease;
+  transition: .3s all ease;
 }
 
 footer .social a i {
@@ -1085,6 +1087,8 @@ footer .links li {
 
 footer .links li a {
   color: #000000;
+  -webkit-transition: .3s all ease;
+  transition: .3s all ease;
 }
 
 footer .links li a:hover {
@@ -1114,6 +1118,8 @@ footer .copyright i {
 
 footer .copyright a {
   color: #000000;
+  -webkit-transition: .3s all ease;
+  transition: .3s all ease;
 }
 
 footer .copyright a:hover {

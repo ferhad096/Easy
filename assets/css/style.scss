@@ -898,6 +898,7 @@ footer {
       background: #f8f9fa;
       color: $black;
       position: relative;
+      transition: .3s all ease;
       i {
         position: absolute;
         top: 50%;
@@ -919,6 +920,7 @@ footer {
       margin-bottom: 10px;
       a {
         color: $black;
+        transition: .3s all ease;
         &:hover {
           color: $orange;
         }
@@ -944,6 +946,7 @@ footer {
     }
     a {
       color: $black;
+      transition: .3s all ease;
       &:hover {
         color: $orange;
       }
