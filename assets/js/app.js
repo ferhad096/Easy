@@ -20,17 +20,6 @@ closeMenu.addEventListener("click", () => {
   mobileNav.classList.toggle("active");
 });
 
-// / Click otuside close menu /////
-// document.onclick = function(e){
-//   if(e.target.classList !== 'mobileNav'){
-//     mobileNav.classList.remove("active");
-//     hamburger.classList.remove("active");
-//   }
-//   if(e.target == hamburger) {
-//     mobileNav.classList.add("active");
-//     hamburger.classList.add("active");
-//   }
-// };
 
 const arrow = document.querySelector(".arrow");
 const arrow2 = document.querySelector(".drop-2 .arrow");
